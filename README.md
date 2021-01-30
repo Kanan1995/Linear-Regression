@@ -1,2 +1,2 @@
-# Linear-Regression-with-dummy-variable
+# Linear-Regression-with-dummy-variables
 Linear Regression Model using of real state database
