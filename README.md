@@ -18,4 +18,4 @@ Project reveals parameters of regression between dependend (GPA) and independend
 
 
 ## Contact
-Created by [Kanan Gulmammadli](kenan.gulmemmedli@gmail.com) - feel free to contact me!
+Created by [Kanan Gulmammadli](kenan.gulmemmedli@gmail.com) kenan.gulmemmedli@gmail.com  - feel free to contact me!
