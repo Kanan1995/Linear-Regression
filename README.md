@@ -3,7 +3,6 @@
 ## Table of contents
 * [General info](#general-info)
 * [Packages](#technologies)
-* [Inspiration](#inspiration)
 * [Contact](#contact)
 
 ## General info
